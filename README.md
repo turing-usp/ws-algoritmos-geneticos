@@ -14,7 +14,7 @@ O workshop utiliza a linguagem Python 3 e depende das seguintes bibliotecas:
 
 - [pygame](https://www.pygame.org/)
 - [NumPy](https://numpy.org/)
-- [chrome_trex](https://github.com/GrupoTuringCodes/chrome-trex-rush)
+- [chrome_trex](https://github.com/GrupoTuring/chrome-trex-rush)
 
 As instruções de instalação de Python podem ser encontradas [aqui](https://realpython.com/installing-python/).
 Para instalar as bibliotecas, execute o seguinte comando:
@@ -43,7 +43,7 @@ corresponde ao pacote *chrome_trex* que foi instalado nos [pré-requisitos](#pr�
 
 ## Autores
 
-O material e o workshop foram organizados por uma equipe do [Grupo Turing](https://github.com/GrupoTuringCodes):
+O material e o workshop foram organizados por uma equipe do [Grupo Turing](https://github.com/GrupoTuring):
 
 - [Fernando Matsumoto](https://github.com/fernandokm)
 - [Luísa Heise](https://github.com/luisaheise)
